@@ -1,5 +1,5 @@
 +++ 
-date = '2025-05-23T20:42:42-05:00'
+date = '2025-01-04T20:42:42-05:00'
 title = 'Share the Engineering Hat: Why All Employees of Software Companies Should Try It On'
 +++
 
