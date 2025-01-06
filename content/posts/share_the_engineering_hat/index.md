@@ -15,9 +15,9 @@ In order to mitigate such risk and preserve customer trust, it is important not 
 
 However, while fearmongering is a great way to get people to start reading an article (and building secure systems should always be a priority), it generally isn’t a great strategy for early adoption of a process. Insead, the rest of this article will focus on the value add that a shared engineering hat can bring to mid to large software companies. By sharing the engineering hat across all facets of a business, organizations can ensure that each team—whether it’s sales, marketing, customer success, or product management—has a solid understanding of the technical aspects of the software. This cross-functional collaboration not only fosters a unified approach to customer needs but also enables teams to identify and act on opportunities for innovation and improvement. When everyone in the company is aligned around the product’s capabilities and limitations, it leads to more informed decision-making, smoother customer interactions, and a greater ability to adapt to changing market demands. Ultimately, this holistic understanding drives greater future value, boosts customer adoption, and strengthens the overall product ecosystem, ensuring long-term success for both the business and its customers.
 
-# How the Engineering Hat Benefits Sales
+## How the Engineering Hat Benefits Sales
 
-## Everyone is In Sales - Including the Software
+### Everyone is In Sales - Including the Software
 
 In any organization, sales isn't just the responsibility of the sales team - everyone plays a role in the process, software companies being no exception. And in an environment where the product is under a continuous state of change, with features being added and integrated libraries needing to be maintained, the development process itself has an effect on sales. Consistent quality and reliability have a direct and lasting impact on both current and future sales. When engineering teams fail to align with customer expectations or release software that doesn’t meet the required standards, it not only jeopardizes existing relationships but also affects future business opportunities. Every decision made during the software development and release cycle ultimately shapes how the product will be perceived, adopted, and recommended to others.
 
@@ -27,7 +27,7 @@ Additionally, potential future customers will likely talk to current customers i
 
 Depending on the robustness of the products that are currently purchased and used, this cross-customer communication can be either a boon or a curse. Sales calls with new clients or with clients looking to renew contracts can be simple and straightforward if the software sells itself, or be entirely devoted to discussing Pain Points if that software is released in an unfinished state.
 
-## Transparency Builds Trust With Customers
+### Transparency Builds Trust With Customers
 
 Transparency is a cornerstone of building lasting trust with customers, especially in software businesses where clients rely on functionality, security, and reliability. When companies are open about their product capabilities, limitations, and development timelines, customers are more likely to feel confident in their decisions and relationships with the business. Clear communication regarding product features, updates, and potential issues ensures that customers can plan and adjust their own strategies accordingly. This honesty fosters an environment where customers feel their concerns are heard and addressed, making them more likely to stay loyal and advocate for the product in the long term.
 
@@ -35,7 +35,7 @@ In addition to providing transparency about what the software can do, it’s equ
 
 Finally, transparency about internal processes, such as how customer feedback is incorporated into development or how security vulnerabilities are addressed, reinforces a company’s credibility. When customers see that a company is not only willing to share information but also acts on it to improve the product, it builds trust and strengthens the partnership. This level of transparency leads to stronger customer relationships, where clients feel more secure in their investments and are more likely to engage in long-term collaborations, knowing they are part of a process that values openness, reliability, and responsiveness.
 
-## Software Expertise Unlocks Customer Value
+### Software Expertise Unlocks Customer Value
 
 Having a solid understanding of how the software solution being sold functions gives a sales team the opportunity to unlock value for customers during the integration process. When teams are well-versed in the capabilities and nuances of the software, they can more effectively identify opportunities to leverage existing functionality in ways that directly address customer needs. For example, understanding how different data sources can be connected to the software, or how various features can be customized, helps sales teams recommend solutions that provide immediate, tangible benefits. This expertise allows customers to make informed decisions on which features to prioritize, ensuring that their investment delivers the highest value from the outset.
 
@@ -49,27 +49,27 @@ Software expertise empowers sales teams to continuously uncover additional value
 
 When engineering and product stakeholders are actively aligned throughout a product’s lifecycle on it’s current capabilities and limitations, this understanding is incredibly valuable for both discovery and long term quality. By having a clear picture of what the software can and cannot do, product managers can set realistic expectations for customers, avoid overpromising, and ensure that any gaps in functionality are addressed before they become pain points. This alignment also helps the product team prioritize features that will directly meet customer needs, improving both customer satisfaction and the likelihood of successful adoption.
 
-## Product Development is in a Constant State of Change
+### Product Development is in a Constant State of Change
 Software is rarely a one-and-done product; it’s continuously evolving based on customer feedback, emerging technologies, and market demands. By maintaining an engineering perspective throughout the product development cycle, teams can ensure that new features or updates are built with the technical feasibility in mind. This constant feedback loop between engineering and product management ensures that product evolution stays aligned with both customer expectations and technical realities. It also allows for faster adaptation to changes in the competitive landscape or shifts in customer needs, keeping the product relevant and valuable over time.
 
-## Understanding Ecosystem Dependencies Helps Inform Cross-Team Prioritization
+### Understanding Ecosystem Dependencies Helps Inform Cross-Team Prioritization
 
 Software solutions served by larger organizations are rarely monoliths. More often then not, they are the result of an ecosystem of separate teams building different parts of a system that, if all goes right, work in tandem to provide value that is greater than the sum of its parts. By considering the broader ecosystem, product managers can better prioritize work that ensures compatibility and minimizes technical debt. This holistic view of the product’s architecture helps avoid potential roadblocks, reduces the risk of scope creep, and ensures smoother collaboration between different teams within the organization, ultimately resulting in a more cohesive product offering.
 
-# How a Shared Engineering Hat Benefits Engineering
+## How a Shared Engineering Hat Benefits Engineering
 
-## Prioritizing Customer Requirements Drives Early Return on Investment
+### Prioritizing Customer Requirements Drives Early Return on Investment
 
 When engineers have a clear understanding of customer requirements and actively contribute to setting priorities, they can focus their efforts on features and fixes that provide the highest value to customers. This alignment ensures that engineering resources are invested in work that directly contributes to customer satisfaction and ROI. By addressing the most critical customer pain points early in the development process, engineering teams help create a product that delivers value quickly, which not only strengthens customer relationships but also helps accelerate the financial return on the product investment.
 
-## Focusing on Customer Needs Strengthens Feedback Loops
+### Focusing on Customer Needs Strengthens Feedback Loops
 
 Incorporating customer feedback into the engineering process creates a vital loop where engineers can refine their understanding of user needs and continuously improve the product. When engineers have regular touchpoints with sales teams or directly with customers, they gain deeper insights into how their work impacts the user experience. This ongoing exchange allows for faster iteration and ensures that features are developed with the real-world use case in mind. Strengthening these feedback loops ultimately helps engineers create solutions that are more in line with customer expectations and better positioned to succeed in the market.
 
-## Learning About Customer Pain Points Informs Future Development
+### Learning About Customer Pain Points Informs Future Development
 
 When engineers are aware of the pain points customers experience, they can take a more proactive approach to future development. Rather than merely reacting to technical issues or bugs, they can identify patterns in customer feedback that indicate potential areas for improvement or innovation. Understanding these pain points enables engineers to prioritize development efforts that solve real problems, enhancing the product’s usability and reliability. This forward-thinking approach not only leads to better product outcomes but also fosters a stronger connection between engineering and customer success, ultimately making the product more adaptable to evolving customer needs.
 
-# In Summary: Try it On
+## In Summary: Try it On
 
 Sharing the engineering hat across sales, product, and engineering stakeholders in a software company creates invaluable feedback loops that drive continuous improvement and innovation. When all sides understand the technical capabilities and limitations of the product, they can more effectively collaborate to meet customer needs, prioritize features, and address pain points. This alignment not only ensures that the product evolves in ways that are truly valuable to customers, but also builds trust with the customer by demonstrating that the business listens to their feedback and acts on it. When customers see their concerns reflected in the product and are supported by informed teams throughout their journey, they are more likely to remain loyal, advocate for the product, and contribute to its future success. And if any part of the current development process in the organization could be potentially catastrophic in the wrong conditions, the feedback loops will be in place so that it’s not a surprise to anyone.
